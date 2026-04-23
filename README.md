@@ -45,37 +45,6 @@
 </p>
 
 ---
-
-## 🔥 Projects
-
-### 🌍 Crowd Map (TypeScript)
-🗺️ Built a map-based system similar to Google Maps  
-⚡ Focused on interactive UI and real-time data handling  
-
----
-
-### 🎓 Student Management System
-📚 Developed using HTML, CSS & JavaScript  
-⚙️ Handles student data and operations  
-
----
-
-### ✋ Gesture Control System (Python)
-🤖 Built a gesture-based interaction system  
-🎯 Explores human-computer interaction  
-
----
-
-### 💰 Expense Tracker
-📊 Track daily expenses with a clean UI  
-💡 Helps manage personal finances  
-
----
-
-### 🎤 Voicey AI Assistant
-🗣️ Voice assistant that can be integrated into any website  
-⚡ Plug-and-play with minimal code  
-
 ---
 
 ## 📊 GitHub Stats
