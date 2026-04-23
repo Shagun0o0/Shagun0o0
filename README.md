@@ -1,37 +1,53 @@
-# 👋 Hi, I'm Shagun
+<h1 align="center">Hi 👋, I'm Shagun</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Web+Developer;UI+Designer;Animation+Lover;Always+Learning+New+Things)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;UI+Designer;Animation+Lover;Always+Learning+New+Things" />
+</p>
 
 ---
 
 ## 🌟 About Me
-💻 Passionate about Web Development  
-🎨 Love creating animations & interactive UI  
-🚀 Always exploring new technologies  
-🌱 Currently improving my skills every day  
+
+✨ Passionate about building interactive web experiences  
+🎨 Love animations & clean UI  
+🚀 Exploring new technologies every day  
+💡 Turning ideas into real projects  
 
 ---
 
 ## 🚀 Skills
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Shagun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shagun0o0&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shagun0o0&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shagun0o0&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shagun0o0)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shagun0o0&theme=react-dark" />
 
 ---
 
-## ✨ Fun Fact
-I love turning ideas into interactive experiences 🎯
+## 🧠 Currently Learning
+- Advanced JavaScript  
+- React Projects  
+- UI/UX Design  
+
+---
+
+## ✨ Quote I Like
+"Create. Improve. Repeat." 🚀
