@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Shagun
 
-<!--
-**Shagun0o0/Shagun0o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5733&lines=Web+Developer;UI+Designer;Animation+Lover;Always+Learning+New+Things)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+💻 Passionate about Web Development  
+🎨 Love creating animations & interactive UI  
+🚀 Always exploring new technologies  
+🌱 Currently improving my skills every day  
+
+---
+
+## 🚀 Skills
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+![Shagun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shagun0o0&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shagun0o0)
+
+---
+
+## ✨ Fun Fact
+I love turning ideas into interactive experiences 🎯
